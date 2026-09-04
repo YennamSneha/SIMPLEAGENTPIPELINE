@@ -1,0 +1,866 @@
+[
+  {
+    "id": "a6ccc1d5-d8d6-4924-9190-dd249ee95b49",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr-agent-test-project",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-04T04:26:32.647Z",
+    "completedAt": "2026-09-04T04:28:15.042Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 9,
+      "medium": 8,
+      "low": 4
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "fc860ce9-ad7d-407c-baac-43b45f6ae490",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr_agent_test_findings",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-04T04:21:26.373Z",
+    "completedAt": "2026-09-04T04:24:31.914Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 5,
+      "high": 22,
+      "medium": 5,
+      "low": 2
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "65206f13-4dc5-4b46-95c8-41a9b94ca101",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".env.example",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T10:45:03.332Z",
+    "completedAt": "2026-09-03T10:49:14.714Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 5,
+      "high": 23,
+      "medium": 21,
+      "low": 9
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "db52f707-8420-4ad0-a767-23c37a085e48",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr_review_agent",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T10:38:02.996Z",
+    "completedAt": "2026-09-03T10:44:32.036Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 23,
+      "high": 63,
+      "medium": 51,
+      "low": 60
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "9f01056a-2873-4bf2-8d03-49d0624b521a",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T10:33:34.582Z",
+    "completedAt": "2026-09-03T10:41:07.876Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 7,
+      "high": 61,
+      "medium": 21,
+      "low": 39
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "9d9c3e0e-eeb0-4b66-b902-ba69b4581740",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T10:32:23.224Z",
+    "completedAt": "2026-09-03T10:39:03.909Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 7,
+      "high": 62,
+      "medium": 23,
+      "low": 39
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "3c257c7e-867f-44cf-aea1-f069fe1f7c0a",
+    "status": "RUNNING",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:26:34.196Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "a4cb278a-3004-4d64-b81f-ffe481862efe",
+    "status": "RUNNING",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:24:22.534Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "73a0cbfb-4ee4-4163-89d3-630f5a87a9a0",
+    "status": "RUNNING",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:23:36.821Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "027b0ec8-d2b8-449b-8a0c-c1ceb98606f2",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T10:20:58.591Z",
+    "completedAt": "2026-09-03T10:28:02.805Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 6,
+      "high": 58,
+      "medium": 28,
+      "low": 33
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "0da89b05-3869-41f4-9f8c-45aece1fedaa",
+    "status": "RUNNING",
+    "repository": {
+      "name": "prqa_timeout_fix",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:12:44.753Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "2cf8aa8b-973a-471b-92b7-1b3d0f966e2d",
+    "status": "RUNNING",
+    "repository": {
+      "name": "prqa_timeout_fix",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:11:57.461Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "736da32a-32a1-4c54-a354-fe8183637450",
+    "status": "RUNNING",
+    "repository": {
+      "name": "prqa_timeout_fix",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-03T10:09:20.572Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "13813888-3d97-4b46-8ce0-3c4ed84fc6ec",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".dockerignore",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T08:39:58.908Z",
+    "completedAt": "2026-09-03T08:52:54.398Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 6,
+      "high": 127,
+      "medium": 89,
+      "low": 62
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "b41b208e-ec11-4905-aa4f-238c2a376c2f",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".env.example",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T08:22:34.576Z",
+    "completedAt": "2026-09-03T08:27:27.883Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 1,
+      "high": 18,
+      "medium": 28,
+      "low": 10
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "4e15f6aa-83c8-4073-aee1-9051ea618218",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "EXPECTED_FINDINGS.md",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T07:49:31.990Z",
+    "completedAt": "2026-09-03T07:51:39.070Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 15,
+      "high": 17,
+      "medium": 5,
+      "low": 5
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "516a27a1-b930-4ec0-8535-818d79192413",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr-agent-test-project",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T07:37:30.493Z",
+    "completedAt": "2026-09-03T07:39:02.541Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 10,
+      "medium": 11,
+      "low": 5
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "869f4847-01e1-459c-b7d9-99c7b987b071",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr-agent-test-project",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T07:07:10.390Z",
+    "completedAt": "2026-09-03T07:10:02.201Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 8,
+      "medium": 9,
+      "low": 6
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "053b97b0-a346-455a-927e-494f6c42cf56",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T06:33:21.907Z",
+    "completedAt": "2026-09-03T06:37:39.134Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 6,
+      "high": 92,
+      "medium": 31,
+      "low": 269
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "2623c06e-e825-45b2-972c-426bd72168b2",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr_agent_30_gate_test",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-03T03:58:40.284Z",
+    "completedAt": "2026-09-03T04:02:03.237Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 12,
+      "high": 21,
+      "medium": 2,
+      "low": 2
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "85d37d25-716a-4967-b5a7-22e35b3fe39f",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "pr_agent_test_findings",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T12:01:08.644Z",
+    "completedAt": "2026-09-02T12:03:45.543Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 4,
+      "high": 22,
+      "medium": 2,
+      "low": 2
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "dd66f789-5edf-4b03-a2e9-b4b278971f11",
+    "status": "RUNNING",
+    "repository": {
+      "name": "pr_agent_test_findings",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-02T11:57:44.587Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "6f89f677-db50-4e62-a9ec-7d1625af42b1",
+    "status": "RUNNING",
+    "repository": {
+      "name": "pr_agent_test_findings",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-02T11:56:36.161Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "58b76e19-fc74-4db3-b9c7-c3421b1214aa",
+    "status": "RUNNING",
+    "repository": {
+      "name": "pr_agent_test_findings",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-02T11:51:50.568Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "0bbeac89-5f9a-4123-85b5-5e0d9102f119",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T11:31:54.062Z",
+    "completedAt": "2026-09-02T11:37:48.687Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 8,
+      "high": 93,
+      "medium": 54,
+      "low": 271
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "3908f6f6-6bef-4b84-a847-4159c4e9e824",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "docker-compose.yml",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T10:09:39.293Z",
+    "completedAt": "2026-09-02T10:14:40.603Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 33,
+      "high": 297,
+      "medium": 127,
+      "low": 1368
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "2bd4bf1b-8724-4e20-9351-04597217afa3",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "docker-compose.yml",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T10:07:59.899Z",
+    "completedAt": "2026-09-02T10:13:35.017Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 32,
+      "high": 277,
+      "medium": 88,
+      "low": 1367
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "ba56f4be-7d73-4bb6-9237-5844038d8c6a",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".env.example",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T08:15:21.591Z",
+    "completedAt": "2026-09-02T08:18:48.892Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 3,
+      "high": 29,
+      "medium": 34,
+      "low": 22
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "c4f6ea94-7a7b-40ee-83bd-565d4d1dfd50",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".env.example",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T08:11:09.398Z",
+    "completedAt": "2026-09-02T08:15:44.036Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 3,
+      "high": 30,
+      "medium": 30,
+      "low": 21
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "c5c13486-69e0-4211-8d93-a65c43251ec4",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "SETUP-WINDOWS.ps1",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T08:00:41.848Z",
+    "completedAt": "2026-09-02T08:04:49.087Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 19,
+      "high": 144,
+      "medium": 102,
+      "low": 652
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "128adcc2-c698-4a95-99a8-f5f622eaf7fe",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "work",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T07:33:33.142Z",
+    "completedAt": "2026-09-02T07:39:12.581Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 6,
+      "high": 85,
+      "medium": 61,
+      "low": 271
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "9a72b194-3b59-4eb1-934d-a849c5bfdcf6",
+    "status": "RUNNING",
+    "repository": {
+      "name": "package-lock.json",
+      "github": false
+    },
+    "overallScore": null,
+    "createdAt": "2026-09-02T07:25:39.627Z",
+    "completedAt": null,
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "qualityGate": null
+  },
+  {
+    "id": "7a821504-4bee-48b6-b6e9-ca2938e50b2c",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "SETUP-WINDOWS.ps1",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T07:07:01.123Z",
+    "completedAt": "2026-09-02T07:11:14.851Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 22,
+      "high": 114,
+      "medium": 48,
+      "low": 571
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "2eb3667d-0b94-49da-931e-cbc81e47e8c6",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "prqa_simplified",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T06:55:57.528Z",
+    "completedAt": "2026-09-02T07:00:02.881Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 6,
+      "high": 70,
+      "medium": 42,
+      "low": 252
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "5ce03f4f-cdfe-4077-8c6c-ead703f152f9",
+    "status": "COMPLETED",
+    "repository": {
+      "name": ".env.example",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T06:44:50.361Z",
+    "completedAt": "2026-09-02T06:48:06.311Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 0,
+      "high": 11,
+      "medium": 8,
+      "low": 22
+    },
+    "qualityGate": "FAIL"
+  },
+  {
+    "id": "5fa47ef1-524c-483c-8cec-aac95b28b1cc",
+    "status": "COMPLETED",
+    "repository": {
+      "name": "prqa_timeout_fix",
+      "github": false
+    },
+    "overallScore": 0,
+    "createdAt": "2026-09-02T06:27:45.733Z",
+    "completedAt": "2026-09-02T06:31:34.949Z",
+    "source": "manual",
+    "pullRequestNumber": null,
+    "pullRequestUrl": null,
+    "commitSha": null,
+    "title": null,
+    "error": null,
+    "findingCounts": {
+      "critical": 18,
+      "high": 152,
+      "medium": 100,
+      "low": 686
+    },
+    "qualityGate": "FAIL"
+  }
+]
